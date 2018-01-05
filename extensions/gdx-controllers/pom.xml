@@ -19,5 +19,6 @@
     <module>gdx-controllers-lwjgl3</module>
     <module>gdx-controllers-android</module>
     <module>gdx-controllers-gwt</module>
+    <module>gdx-controllers-teavm</module>
   </modules>
 </project>
