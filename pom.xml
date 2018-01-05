@@ -56,10 +56,10 @@
     <module>gdx</module>
     <module>gdx/jni/maven</module>
     <module>backends/gdx-backend-android</module>
+    <module>backends/gdx-backend-gwt</module>
     <module>backends/gdx-backend-robovm</module>
     <module>backends/gdx-backend-lwjgl</module>
-    <module>backends/gdx-backend-lwjgl3</module>    
-    <module>backends/gdx-backends-gwt</module>
+    <module>backends/gdx-backend-lwjgl3</module>
     <module>backends/gdx-backend-headless</module>
     <module>backends/gdx-backend-moe</module>
     <module>extensions/gdx-tools</module>
@@ -68,7 +68,7 @@
     <module>extensions/gdx-bullet/jni/maven</module>
     <module>extensions/gdx-controllers</module>
     <module>extensions/gdx-freetype</module>
-    <module>extensions/gdx-freetype/jni/maven</module>    
+    <module>extensions/gdx-freetype/jni/maven</module>
   </modules>
 
   <build>

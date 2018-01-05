@@ -3,7 +3,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/gdx-backends-gwt"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/gdx-backend-gwt"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/gdx"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/gdx-tests"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/gdx-box2d"/>
